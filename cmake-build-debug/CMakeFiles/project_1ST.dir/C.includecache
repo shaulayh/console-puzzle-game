@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/shaul/Desktop/project 1ST/main.c
+stdio.h
+-
+conio.h
+-
+stdlib.h
+-
+time.h
+-
+dos.h
+-
+windows.h
+-
+

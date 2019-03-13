@@ -1,0 +1,3 @@
+C:/Users/shaul/Desktop/project 1ST/cmake-build-debug/CMakeFiles/project_1ST.dir
+C:/Users/shaul/Desktop/project 1ST/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shaul/Desktop/project 1ST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
